@@ -1,0 +1,12 @@
+[
+	{
+		"id": 1,
+		"timestamp":"",
+		"nombre": "Colchón Chocolate",
+		"descripcion":"Colchón de lona relleno de copos de gomaespuma",
+		"codigo":123456,
+		"foto": "cama_chocolate.jpg",
+		"precio": 345.67,
+		"stock":100
+	}
+]
